@@ -1,5 +1,7 @@
 # HTML Email Signature
 
+![HTML Email Signature Example](https://github.com/HigherEducation/email-signature/blob/master/example.jpg)
+
 ## Getting Started
 
 1. Open [**Gmail**](https://mail.google.com/) _(you might need to switch users if you have multiple accounts)_
