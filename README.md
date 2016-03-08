@@ -12,3 +12,5 @@
 8. Click on each item in this signature to edit the details. Click once on the temp email address and click **Change** to edit that.
 9. Scroll down and **Save Changes**
 10. Send a test email to your BFF with your new, fancy email signature.
+
+_Pro Tip:_ To get this signature on your phone/device, it's probably easiest just to send yourself an email with the final signature in it, then copy and paste the new signature into your devices' mail app built-in settings.
