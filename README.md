@@ -15,4 +15,4 @@
 9. Scroll down and **Save Changes**
 10. Send a test email to your BFF with your new, fancy email signature. While you're at it, be sure to actually click on your own email address link in the signature and test that you input it correctly.
 
-_Pro Tip:_ To get this signature on your phone/device, it's probably easiest just to send yourself an email with the final signature in it, then copy and paste the new signature into your devices' mail app built-in settings.
+_Pro Tip:_ To get this signature on your phone/device, it's probably easiest just to send yourself an email with the final signature in it, then copy and paste the new signature into your devices' mail app built-in settings. I personally tried this on my iPhone and it looked terrible. **I would really recommend keeping your device signatures as minimal, plain text.** Besides, you'll save on your data plan not having to send extra info. ;)
